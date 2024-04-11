@@ -1,0 +1,5 @@
+KNN :- Arman
+Linear Regression :- Anushka
+SVD :- Github
+ANN :- Abhay
+GMM :- Sangini
