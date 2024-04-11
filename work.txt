@@ -3,3 +3,4 @@ Linear Regression :- Anushka
 SVD :- Github
 ANN :- Abhay
 GMM :- Sangini
+SVR :- Soumen
